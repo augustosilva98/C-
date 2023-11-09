@@ -1,0 +1,9 @@
+A linha 1 importa o namespace System, que contém as classes e interfaces necessárias para a leitura de arquivos.
+A linha 3 declara uma classe chamada Program, que contém o método Main.
+A linha 5 declara uma variável chamada caminhoArquivo para armazenar o nome do arquivo.
+A linha 7 abre o arquivo usando o método ReadeStream.
+A linha 9 declara uma variável chamada linha para armazenar cada linha do arquivo.
+A linha 10 inicia um loop while que continua enquanto o método ReadLine() retornar um valor não nulo.
+A linha 11 lê uma linha do arquivo usando o método ReadLine().
+A linha 12 exibe a linha na tela usando o método WriteLine().
+A linha 14 fecha o arquivo usando o método Close().

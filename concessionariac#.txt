@@ -1,0 +1,17 @@
+A linha 1 importa o namespace System, que contém as classes e interfaces necessárias para a criação de objetos.
+A linha 3 declara a classe Carro.
+A linha 5 declara os atributos da classe Carro.
+A linha 7 define o construtor da classe Carro.
+A linha 10 declara a classe Program.
+A linha 12 declara o método Main.
+A linha 14 cria os objetos Carro.
+A linha 16 inicia um loop foreach.
+A linha 17 itera pelos objetos Carro.
+A linha 18 imprime o nome do carro.
+A linha 19 imprime se o carro é novo ou usado.
+A linha 20 imprime a potência do carro, se o carro for novo.
+A linha 21 imprime a cor do carro.
+A linha 22 imprime o número de portas do carro.
+A linha 23 imprime se o carro é flex ou não.
+A linha 24 imprime o ano de fabricação do carro.
+A linha 26 finaliza o loop foreach.
